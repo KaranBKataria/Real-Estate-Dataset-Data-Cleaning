@@ -12,11 +12,11 @@ My primary objective for this project was to clean the dataset by transforming f
 
 The programming concepts I applied using Pandas to clean the dataset were the following:
 
-1) Utilised lambda functions for feature manipulation and implemented the using .apply()
+1) Utilised lambda functions for feature manipulation and implemented them using .apply()
 2) Utilised functions and implemented them using .apply()
-3) Utilised string funtions such as .title() and .split() to make data for certain features neater 
+3) Utilised string methods such as .title() and .split() to make data for certain features neater 
 4) Corrected the data types of features using dtypes and astype()
-5) Investigated the cause of missing values using .isnull().sum() and dealt with them using .dropna()
+5) Investigated the cause of missing data using .isnull().sum() and dealt with them using .dropna()
 
 
 **NOTE** 
