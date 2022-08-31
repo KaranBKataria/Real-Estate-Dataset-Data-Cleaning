@@ -20,4 +20,4 @@ The programming concepts I applied using Pandas to clean the dataset were the fo
 
 
 **NOTE** 
-This project only focuses on the cleaning of the dataset. Any Data Exploration (EDA) and Data Visualisation was conducted on a seperate GitHub project repo named ''.
+This project only focuses on the cleaning of the dataset. Any Data Exploration (EDA) and Data Visualisation was conducted on a seperate GitHub project repo named 'Real-Estate-Dataset-EDA-and-Data-Visualisation'.
